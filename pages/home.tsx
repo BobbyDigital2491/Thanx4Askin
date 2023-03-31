@@ -10,7 +10,7 @@ import Banner from '../components/Banner'
 import Info from '../components/Info'
 import Proof from '../components/Proof'
 
-const home = () => {
+const index = () => {
   return (
     <div className=' bg-black'>
         <Seo title='Pieces 2 Peace Wellness Center LLC' description='dkdkkd' image='/logo.jpeg' url=''/>
@@ -33,4 +33,4 @@ const home = () => {
   )
 }
 
-export default home
+export default index
