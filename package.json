@@ -1,8 +1,8 @@
 {
-  "name": "tailwind-typescript-starter-nextjs",
+  "name": "pieces-2-peace",
   "version": "1.0.0",
-  "description": "typescript starter with tailwindcss",
-  "author": "kumard3",
+  "description": "Pieces 2 Peace Website",
+  "author": "Robert Lawrence",
   "license": "MIT",
   "repository": {
     "type": "git",
