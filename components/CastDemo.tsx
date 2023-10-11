@@ -137,7 +137,7 @@ const CastDemo = () => {
               </div>
               <div className="ml-3">
                 <p className="text-sm font-medium text-neutral-600">
-                  <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==" className="hover:underline"> Bug Owt </a>
+                  <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==" className="hover:underline"> Detox Jones </a>
                 </p>
                 <div className="flex space-x-1 text-sm text-gray-500">
                   <time dateTime="2020-02-12"> Mar 10, 2023 </time>
