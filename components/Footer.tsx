@@ -132,7 +132,7 @@ const Footer = () => {
       <ul className="flex justify-center gap-6 sm:justify-end">
         <li>
           <a
-            href="https://www.facebook.com/GanttandJackson20"
+            href="https://www.facebook.com/detox.jones"
             rel="noreferrer"
             target="_blank"
             className="text-blue-600 transition hover:text-blue-500"
@@ -155,7 +155,7 @@ const Footer = () => {
 
         <li>
           <a
-            href="https://www.instagram.com/thanx4askin/?fbclid=IwAR3yxNJyFEzAcTHMWdR94UuNYbDXJNUL8PPqexUZwdholI9G2khmdDHLvNA"
+            href="https://instagram.com/thanx4askin?igshid=NzZhOTFlYzFmZQ=="
             rel="noreferrer"
             target="_blank"
             className="text-purple-500 transition hover:text-purple-400"
@@ -178,7 +178,7 @@ const Footer = () => {
 
         <li>
           <a
-            href="https://www.tiktok.com/@_p2pllc0720_"
+            href="https://www.tiktok.com/@thanx4askin?is_from_webapp=1&sender_device=pc"
             rel="noreferrer"
             target="_blank"
             className="text-sky-400 transition hover:text-sky-300"
