@@ -68,7 +68,7 @@ const Podcast = () => {
             </div>
             <div className="flex items-center mt-6">
               <div className="flex-shrink-0">
-                <a href="/SmileyEpisode">
+                <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==">
                   <span className="sr-only">Detox Jones</span>
                   <img className="w-10 h-10 rounded-full" src="/Detox.jpg" alt="Detox Jones"/>
                 </a>
