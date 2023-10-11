@@ -4,7 +4,7 @@ import React from 'react';
 const CTA = () => {
   return (
     <div>
-      <section className="bg-white dark:bg-black">
+      <section className="bg-white dark:bg-black md:hidden">
         <div className="gap-8 items-center py-8 px-4 mx-auto max-w-screen-xl xl:gap-16 md:grid md:grid-cols-2 sm:py-16 lg:px-6">
           <img
             className="w-full dark:hidden"
