@@ -53,7 +53,7 @@ const Gallery = () => {
          {/* Item 2 */}
         <div className="hidden duration-700 ease-in-out" data-carousel-item>
           <img
-            src="dregz.jpg"
+            src="BaisleyLA.png"
             className="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
             alt="Dregs"
           />
@@ -64,7 +64,7 @@ const Gallery = () => {
          {/* Item 3 */}
          <div className="hidden duration-700 ease-in-out" data-carousel-item>
           <img
-            src="B2.png"
+            src="Morado.png"
             className="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
             alt=""
           />
@@ -72,7 +72,7 @@ const Gallery = () => {
         {/* Item 4 */}
         <div className="hidden duration-700 ease-in-out" data-carousel-item>
           <img
-            src="Junie.jpg"
+            src="P2.png"
             className="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
             alt=""
           />
@@ -80,7 +80,7 @@ const Gallery = () => {
         {/* Item 5 */}
         <div className="hidden duration-700 ease-in-out" data-carousel-item>
           <img
-            src="SR.jpg"
+            src="Kyah.png"
             className="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
             alt=""
           />
@@ -88,7 +88,7 @@ const Gallery = () => {
         {/* Item 6 */}
         <div className="hidden duration-700 ease-in-out" data-carousel-item>
           <img
-            src="White.jpg"
+            src="Sherifa.png"
             className="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
             alt=""
           />
@@ -96,7 +96,7 @@ const Gallery = () => {
         {/* Item 7 */}
         <div className="hidden duration-700 ease-in-out" data-carousel-item>
           <img
-            src="Black.jpg"
+            src="OA.png"
             className="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
             alt=""
           />
