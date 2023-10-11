@@ -26,7 +26,7 @@ const A1 = () => {
   return (
     <div className="container my-8 mx-auto lg:py-16 lg:px-20 md:py-12 md:px-6 py-9 px-4">
   <section className="mb-32">
-  <h1 className="mb-4 text-4xl text-center font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white">About Us</h1>
+  <h1 className="mb-4 text-4xl text-center font-extrabold leading-none tracking-tight text-white md:text-5xl lg:text-6xl dark:text-white">About Us</h1>
     <img src="1st.jpg"
       className="mb-6 w-full rounded-lg shadow-lg dark:shadow-black/20" alt="image" />
   
