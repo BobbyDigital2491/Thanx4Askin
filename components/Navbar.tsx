@@ -70,7 +70,7 @@ const Navbar = () => {
         
 <FadeIn>
 <div className="relative flex flex-col items-center justify-center text-center p-8 my-24 md:my-40">
-  <p className="uppercase text-white font-bold text-sm mb-1 tracking-widest">Latest Episode • 09</p>
+  <p className="uppercase text-white font-bold text-sm mb-1 tracking-widest">Latest Episode • 19</p>
   <h2 className="text-6xl md:text-7xl text-white font-black uppercase leading-none">Og Bimmy in the building</h2>
   <p className="text-white text-lg max-w-4xl leading-snug mb-8 mt-4 mx-auto">Today, we sat down and had a great conversation with the one and only Bimmy. If you haven&apos;t seen this episode, you have to watch it ASAP!</p>
   <a href='/BimmyEpisode'><button className="px-6 py-4 bg-white uppercase font-bold tracking-widest text-black rounded-sm inline-block leading-none">
