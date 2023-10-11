@@ -11,6 +11,7 @@ const Navbar = () => {
         <video
         className='object-cover h-full w-full absolute -z-10 lg:object-fill md:object-fill sm:object-cover'
         src="https://ipfs.io/ipfs/bafybeidg5pnam2fxhld53zxmdfg2oy5sqxtircdkp7ieesxjrkm23yxhti/Into.mp4"
+        controls
         autoPlay
         loop
         muted
