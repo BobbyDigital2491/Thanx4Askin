@@ -114,7 +114,7 @@ const Footer = () => {
             <li>
               <a
                 className="text-gray-400 transition hover:text-gray-700/75"
-                href="/"
+                href="https://form.jotform.com/232798407887173"
               >
                 Contact Us
               </a>
@@ -204,7 +204,7 @@ const Footer = () => {
 
       <div className="mt-16 sm:flex sm:items-center sm:justify-between">
         <div className="flex justify-center text-yellow-400 sm:justify-start">
-          <img src='/logo.jpeg'  alt='' className="h-24"/>
+          <img src='/thx.png'  alt='' className="h-24"/>
           <h1 className='mt-4 text-center'><br/>We paint portraits of black people by interviewing real people who are making real impact in their community.</h1>
         </div>
 
