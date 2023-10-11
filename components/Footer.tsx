@@ -12,12 +12,12 @@ const Footer = () => {
       className="flex flex-col items-center gap-4 rounded-lg bg-yellow-400 p-6 shadow-lg sm:flex-row sm:justify-between"
     >
       <strong className="text-xl text-white hover:text-black sm:text-xl">
-      Pieces 2 Peace Wellness Center LLC
+      Thankx4askin Podcast
       </strong>
 
       <a
         className="inline-flex items-center gap-2 rounded-full border border-white bg-white px-8 py-3 text-black hover:bg-black hover:text-white focus:outline-none focus:ring active:bg-white/90 active:text-black"
-        href="/contact"
+        href="https://form.jotform.com/232798407887173"
       >
         <span className="text-sm font-medium"> Contact Us </span>
 
@@ -40,43 +40,32 @@ const Footer = () => {
 
     <div className="mt-16 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-4">
       <div className="text-center sm:text-left">
-        <p className="text-lg font-medium text-white">P2P</p>
+        <p className="text-lg font-medium text-white">More Info</p>
 
         <nav aria-label="Footer About Nav" className="mt-8">
           <ul className="space-y-4 text-sm">
+          <li>
+              <a
+                className="text-gray-400 transition hover:text-yellow-300/75"
+                href="/"
+              >
+                Home
+              </a>
+            </li>
             <li>
               <a
-                className="text-gray-400 transition hover:text-gray-700/75"
+                className="text-gray-400 transition hover:text-yellow-300/75"
                 href="/about"
               >
                 About
               </a>
             </li>
-
             <li>
               <a
-                className="text-gray-400 transition hover:text-gray-700/75"
-                href="/team"
+                className="text-gray-400 transition hover:text-yellow-300/75"
+                href="/episodes"
               >
-                Meet the Team
-              </a>
-            </li>
-
-            <li>
-              <a
-                className="text-gray-400 transition hover:text-gray-700/75"
-                href="/services"
-              >
-                Services
-              </a>
-            </li>
-
-            <li>
-              <a
-                className="text-gray-400 transition hover:text-gray-700/75"
-                href="/contact"
-              >
-                Contact Us
+                Episodes
               </a>
             </li>
           </ul>
@@ -93,34 +82,7 @@ const Footer = () => {
                 className="text-gray-400 transition hover:text-gray-700/75"
                 href="/services"
               >
-                Grief Counseling
-              </a>
-            </li>
-
-            <li>
-              <a
-                className="text-gray-400 transition hover:text-gray-700/75"
-                href="/services"
-              >
-                Pre - marital counseling
-              </a>
-            </li>
-
-            <li>
-              <a
-                className="text-gray-400 transition hover:text-gray-700/75"
-                href="/services"
-              >
-                Mens / Womans Groups
-              </a>
-            </li>
-
-            <li>
-              <a
-                className="text-gray-400 transition hover:text-gray-700/75"
-                href="/"
-              >
-                Anger Management
+                Podcasting 
               </a>
             </li>
           </ul>
@@ -135,22 +97,11 @@ const Footer = () => {
             <li>
               <a
                 className="text-gray-400 transition hover:text-gray-700/75"
-                href="/DrAnnaGantt"
+                href="/merchandise"
               >
-                Dr. Gantt Bio
+                Mechandise
               </a>
             </li>
-
-            <li>
-              <a
-                className="text-gray-400 transition hover:text-gray-700/75"
-                href="/TriniciaJackson"
-              >
-                Trinicia Jackson Bio
-              </a>
-            </li>
-
-            
           </ul>
         </nav>
       </div>
@@ -165,40 +116,13 @@ const Footer = () => {
                 className="text-gray-400 transition hover:text-gray-700/75"
                 href="/"
               >
-                FAQs
+                Contact Us
               </a>
             </li>
 
            
-            <li>
-              <a
-                className="text-gray-400 transition hover:text-gray-700/75"
-                href="/"
-              >
-                GoFundMe
-              </a>
-            </li>
-            <li>
-              <a
-                className="group flex justify-center gap-1.5 sm:justify-start"
-                href="/"
-              >
-                <span
-                  className="text-gray-400 transition group-hover:text-gray-700/75"
-                >
-                  Live Chat
-                </span>
-
-                <span className="relative flex h-2 w-2">
-                  <span
-                    className="absolute inline-flex h-full w-full animate-ping rounded-full bg-sky-400 opacity-75"
-                  ></span>
-                  <span
-                    className="relative inline-flex h-2 w-2 rounded-full bg-sky-400"
-                  ></span>
-                </span>
-              </a>
-            </li>
+           
+            
           </ul>
         </nav>
       </div>
@@ -231,7 +155,7 @@ const Footer = () => {
 
         <li>
           <a
-            href="https://www.instagram.com/piece2peacewellnesscenterllc/"
+            href="https://www.instagram.com/thanx4askin/?fbclid=IwAR3yxNJyFEzAcTHMWdR94UuNYbDXJNUL8PPqexUZwdholI9G2khmdDHLvNA"
             rel="noreferrer"
             target="_blank"
             className="text-purple-500 transition hover:text-purple-400"
@@ -254,22 +178,24 @@ const Footer = () => {
 
         <li>
           <a
-            href="/"
+            href="https://www.tiktok.com/@_p2pllc0720_"
             rel="noreferrer"
             target="_blank"
             className="text-sky-400 transition hover:text-sky-300"
           >
-            <span className="sr-only">Twitter</span>
-            <svg
-              className="h-6 w-6"
-              fill="currentColor"
-              viewBox="0 0 24 24"
-              aria-hidden="true"
-            >
-              <path
-                d="M8.29 20.251c7.547 0 11.675-6.253 11.675-11.675 0-.178 0-.355-.012-.53A8.348 8.348 0 0022 5.92a8.19 8.19 0 01-2.357.646 4.118 4.118 0 001.804-2.27 8.224 8.224 0 01-2.605.996 4.107 4.107 0 00-6.993 3.743 11.65 11.65 0 01-8.457-4.287 4.106 4.106 0 001.27 5.477A4.072 4.072 0 012.8 9.713v.052a4.105 4.105 0 003.292 4.022 4.095 4.095 0 01-1.853.07 4.108 4.108 0 003.834 2.85A8.233 8.233 0 012 18.407a11.616 11.616 0 006.29 1.84"
-              />
-            </svg>
+            <span className="sr-only">Tik Tok</span>
+            <svg 
+            xmlns="http://www.w3.org/2000/svg" 
+            width="22" 
+            height="22" 
+            fill="currentColor" 
+            className=" text-gray-600 transition hover:text-white active:text-gray-600" 
+            viewBox="0 0 16 16">
+            <path 
+            fillRule="evenodd"
+            d="M9 0h1.98c.144.715.54 1.617 1.235 2.512C12.895 3.389 13.797 4 15 4v2c-1.753 0-3.07-.814-4-1.829V11a5 5 0 1 1-5-5v2a3 3 0 1 0 3 3V0Z"
+            clipRule="evenodd"/>
+          </svg>
           </a>
         </li>
 
@@ -279,7 +205,7 @@ const Footer = () => {
       <div className="mt-16 sm:flex sm:items-center sm:justify-between">
         <div className="flex justify-center text-yellow-400 sm:justify-start">
           <img src='/logo.jpeg'  alt='' className="h-24"/>
-          <h1 className='mt-4 text-center'><br/>Healing the broken pieces to cultivate peace.</h1>
+          <h1 className='mt-4 text-center'><br/>We paint portraits of black people by interviewing real people who are making real impact in their community.</h1>
         </div>
 
         <p className="mt-4 text-center text-sm text-gray-500 sm:mt-0 sm:text-right">

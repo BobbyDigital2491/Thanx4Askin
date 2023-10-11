@@ -16,17 +16,14 @@ const navData = [
     href: "/team",
   },
   {
-    name: "Services",
-    href: "/services",
+    name: "Podcast",
+    href: "/podcast",
   },
   {
     name: "Contact",
     href: "/contact",
   },
-  {
-    name: "FAQ",
-    href: "/faq",
-  },
+  
   
 ];
 
@@ -53,7 +50,7 @@ export default function NavComponent() {
           <div className="flex justify-between items-center py-6 sm:justify-between sm:space-x-10">
             <div className="flex justify-start lg:w-0 lg:flex-1">
               <a href="/home">
-                <img src="/noBg.png" width={120} height={90} alt="Logo" className=" left-10 rounded-full" />
+                <img src="/thx.png" width={180} height={130} alt="Logo" className=" rounded-3xl " />
               </a>
             </div>
             <div className="mr-2 -my-2 sm:hidden">

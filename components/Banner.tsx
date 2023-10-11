@@ -2,25 +2,21 @@ import React from 'react'
 
 const Banner = () => {
   return (
-    <div>
-      <section className="bg-black dark:bg-black">
-    <div className="container flex flex-col items-center px-4 py-12 mx-auto text-center">
-        <h2 className="max-w-2xl mx-auto text-3xl font-bold tracking-tight text-white xl:text-3xl dark:text-white">
-        Healing the Broken Pieces <span className="text-yellow-400">To Cultivate Peace</span>
-        </h2>
-
-        <p className="max-w-4xl mt-6 text-center text-white dark:text-gray-300">
-        We envision our clients developing the skills needed to thrive and grow.
-        Our wellness center strives to collaboratively enhance our clients’
-        environmental factors and social support systems to create community
-        resiliency. We also believe providing quality holistic services can help our
-        clients live authentically.
-        </p>
-
+    <div><section
+    className="overflow-hidden bg-[url(https://yt3.googleusercontent.com/N3Cn5l2ZPusajqmlpV674VJ4dKWgmf3ZW9Im6c5Jbz92aVykXHPv8veYt1vz1tr4fLaQ82yjSw=s900-c-k-c0x00ffffff-no-rj)] bg-contain bg-center bg-no-repeat"
+  >
+    
+    <div className="bg-black/25 p-8 md:p-12 lg:px-16 lg:py-24">
+      <div className="text-center sm:text-left">
         
+  
+       
+  
+        
+      </div>
     </div>
-</section>
-    </div>
+  </section>
+  </div>
   )
 }
 

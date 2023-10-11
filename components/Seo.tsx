@@ -38,9 +38,9 @@ export default function SEO({ title, description, image, url }: Props) {
       <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
       
       {/* Favicon */}
-      <link rel="apple-touch-icon" sizes="180x180" href="/logo.jpeg" />
-      <link rel="icon" type="image/png" sizes="32x32" href="/logo.jpeg" />
-      <link rel="icon" type="image/png" sizes="16x16" href="/logo.jpeg" />
+      <link rel="apple-touch-icon" sizes="180x180" href="/thx.png" />
+      <link rel="icon" type="image/png" sizes="32x32" href="/thx.png" />
+      <link rel="icon" type="image/png" sizes="16x16" href="/thx.png" />
       <link rel="manifest" href="/site.webmanifest" />
       <meta name="msapplication-TileColor" content="#00aba9" />
       <meta name="theme-color" content="#ffffff" />

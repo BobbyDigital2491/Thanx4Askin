@@ -3,33 +3,26 @@
 /* eslint-disable @next/next/link-passhref */
 import React from 'react'
 import Seo from '../components/Seo'
-import Nav from '../components/Nav'
-import Hero from '../components/Hero'
-import About from '../components/About'
-import Footer from '../components/Footer'
-import Review from '../components/Review'
-import Banner from '../components/Banner'
-import Info from '../components/Info'
-import Proof from '../components/Proof'
+import Footer from '../components/Footer';
+import Gallery from '../components/Gallery';
+import Hero2 from '../components/Hero2';
+import CTA from '../components/CTA';
+import CastDemo from '../components/CastDemo';
+import CTA2 from '../components/CTA2';
 
-export default function index() {
+
+export default function home() {
   return (
     <div className=' bg-black'>
-    <Seo title='Pieces 2 Peace Wellness Center LLC' description='dkdkkd' image='/logo.jpeg' url=''/>
-    
-  
-    <Nav/>
+    <Seo title='Thankx 4 Askin Podcast' description='We paint portraits of black people by interviewing real people who are making real impact in their community.' image='/thx.png' url=''/>
+    <Hero2/>
     <br/>
-    <Hero/>
-    <br/><br/><br/><br/>
-    <Banner/>
-    
-    <About/>
-    <Proof/>
-    <Info/>
-    
-    <Review/>
+    <CTA/>
+    <CTA2/>
+    <CastDemo/>
+    <Gallery/>
     <Footer/>
+    
     
 </div>
   );
