@@ -68,14 +68,14 @@ const CastDemo = () => {
             </div>
             <div className="flex items-center mt-6">
               <div className="flex-shrink-0">
-                <a href="https://twitter.com/Mike_Andreuzza">
+                <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==">
                   <span className="sr-only">Detox Jones</span>
                   <img className="w-10 h-10 rounded-full" src="Detox.jpg" alt=""/>
                 </a>
               </div>
               <div className="ml-3">
                 <p className="text-sm font-medium text-neutral-600">
-                  <a href="https://twitter.com/Mike_Andreuzza" className="hover:underline">Detox Jones</a>
+                  <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==" className="hover:underline">Detox Jones</a>
                 </p>
                 <div className="flex space-x-1 text-sm text-gray-500">
                   <time dateTime="2020-03-16"> Feb 24, 2023 </time>
@@ -88,7 +88,7 @@ const CastDemo = () => {
         </div>
         <div className="flex flex-col overflow-hidden rounded-lg shadow-lg">
           <div className="flex-shrink-0">
-            <img className="object-cover w-full h-48" src="B2.png" alt=""/>
+            <img className="object-cover w-full h-48" src="Detox.jpg" alt=""/>
           </div>
           <div className="flex flex-col justify-between flex-1 p-6 bg-white">
             <div className="flex-1">
@@ -99,19 +99,19 @@ const CastDemo = () => {
             </div>
             <div className="flex items-center mt-6">
               <div className="flex-shrink-0">
-                <a href="https://twitter.com/g_perales">
+                <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==">
                   <span className="sr-only">Detox Jones</span>
                   <img className="w-10 h-10 rounded-full object-cover" src="Detox.jpg" alt=""/>
                 </a>
               </div>
               <div className="ml-3">
                 <p className="text-sm font-medium text-neutral-600">
-                  <a href="#" className="hover:underline"> G Vasquez </a>
+                  <a href="#" className="hover:underline"> Detox Jones </a>
                 </p>
                 <div className="flex space-x-1 text-sm text-gray-500">
-                  <time dateTime="2020-03-10"> Mar 10, 2020 </time>
+                  <time dateTime="2020-03-10"> Sept 9, 2023 </time>
                   <span aria-hidden="true"> · </span>
-                  <span> 4 min read </span>
+                  <span> 1:48:41 mins </span>
                 </div>
               </div>
             </div>
@@ -130,19 +130,19 @@ const CastDemo = () => {
             </div>
             <div className="flex items-center mt-6">
               <div className="flex-shrink-0">
-                <a href="https://twitter.com/wickedlabsHQ">
-                  <span className="sr-only">Bug Owt</span>
-                  <img className="w-10 h-10 rounded-full" src="Bug.jpg" alt=""/>
+                <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==">
+                  <span className="sr-only">Detox Jones</span>
+                  <img className="w-10 h-10 rounded-full" src="Detox.jpg" alt=""/>
                 </a>
               </div>
               <div className="ml-3">
                 <p className="text-sm font-medium text-neutral-600">
-                  <a href="https://twitter.com/wickedlabsHQ" className="hover:underline"> Bug Owt </a>
+                  <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==" className="hover:underline"> Bug Owt </a>
                 </p>
                 <div className="flex space-x-1 text-sm text-gray-500">
-                  <time dateTime="2020-02-12"> Feb 12, 2020 </time>
+                  <time dateTime="2020-02-12"> Mar 10, 2023 </time>
                   <span aria-hidden="true"> · </span>
-                  <span> 11 min read </span>
+                  <span> 1:23:49 mins </span>
                 </div>
               </div>
             </div>
