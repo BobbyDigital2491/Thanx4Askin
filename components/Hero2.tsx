@@ -68,7 +68,7 @@ const Hero2: React.FC = () => {
         <div className="px-6 mx-auto sm:px-8 lg:px-12 max-w-7xl">
             <div className="grid items-center grid-cols-1 lg:grid-cols-2">
                 <div>
-                   <FadeIn> <h1 className="font-sans text-base font-normal tracking-tight text-white text-opacity-70">Welcome to the Thankx 4 Askin Podcast</h1></FadeIn>
+                   <FadeIn> <h1 className="font-sans text-base font-normal tracking-tight text-white text-opacity-70">Welcome to the Thanx4Askin Podcast</h1></FadeIn>
                     <FadeIn><p className="mt-6 tracking-tighter text-white">
                         <span className="font-serif italic font-normal text-8xl text-transparent bg-clip-text bg-gradient-to-br from-yellow-300 to-yellow-900">THANX </span><br />
                         <span className="font-serif italic font-normal text-8xl text-red-600">4 <span className='text-transparent bg-clip-text bg-gradient-to-br from-yellow-300 to-yellow-900'>ASKIN</span></span>
