@@ -49,7 +49,7 @@ const Podcast = () => {
   <div className="relative px-4 py-12 sm:px-6 lg:py-16 lg:px-8">
     <div className="relative mx-auto max-w-7xl">
     <FadeIn>
-      <h1 className="mb-4 text-white text-center text-4xl font-extrabold leading-none tracking-tight md:text-5xl lg:text-6xl dark:text-white">All Episodes</h1>
+      <h1 className="mb-4  text-center text-4xl font-extrabold leading-none tracking-tight text-black md:text-5xl lg:text-6xl dark:text-white">All Episodes</h1>
       </FadeIn>
     <br/>
 
@@ -75,7 +75,7 @@ const Podcast = () => {
               </div>
               <div className="ml-3">
                 <p className="text-sm font-medium text-neutral-600">
-                  <a href="/SmileyEpisode" className="hover:underline">Detox Jones</a>
+                  <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==" className="hover:underline">Detox Jones</a>
                 </p>
                 <div className="flex space-x-1 text-sm text-gray-500">
                   <time dateTime="2020-03-16"> Oct 2, 2023 </time>
@@ -101,14 +101,14 @@ const Podcast = () => {
             </div>
             <div className="flex items-center mt-6">
               <div className="flex-shrink-0">
-                <a href="/P2Episode">
+                <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==">
                   <span className="sr-only">Detox Jones</span>
                   <img className="w-10 h-10 rounded-full object-cover" src="Detox.jpg" alt=""/>
                 </a>
               </div>
               <div className="ml-3">
                 <p className="text-sm font-medium text-neutral-600">
-                  <a href="/P2Episode" className="hover:underline"> Detox Jones </a>
+                  <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==" className="hover:underline"> Detox Jones </a>
                 </p>
                 <div className="flex space-x-1 text-sm text-gray-500">
                   <time dateTime="2020-03-10"> Sept 22, 2023 </time>
@@ -134,14 +134,14 @@ const Podcast = () => {
             </div>
             <div className="flex items-center mt-6">
               <div className="flex-shrink-0">
-                <a href="/BimmmyEpisode">
+                <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==">
                   <span className="sr-only">Detox Jones</span>
                   <img className="w-10 h-10 rounded-full object-cover" src="Detox.jpg" alt=""/>
                 </a>
               </div>
               <div className="ml-3">
                 <p className="text-sm font-medium text-neutral-600">
-                  <a href="#" className="hover:underline"> Detox Jones </a>
+                  <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==" className="hover:underline"> Detox Jones </a>
                 </p>
                 <div className="flex space-x-1 text-sm text-gray-500">
                   <time dateTime="2020-03-10"> Sept 9, 2023 </time>
@@ -167,14 +167,14 @@ const Podcast = () => {
             </div>
             <div className="flex items-center mt-6">
               <div className="flex-shrink-0">
-                <a href="https://twitter.com/wickedlabsHQ">
+                <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==">
                   <span className="sr-only">Detox Jones</span>
                   <img className="w-10 h-10 rounded-full" src="Detox.jpg" alt=""/>
                 </a>
               </div>
               <div className="ml-3">
                 <p className="text-sm font-medium text-neutral-600">
-                  <a href="https://twitter.com/wickedlabsHQ" className="hover:underline"> Detox Jones </a>
+                  <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==" className="hover:underline"> Detox Jones </a>
                 </p>
                 <div className="flex space-x-1 text-sm text-gray-500">
                   <time dateTime="2020-02-12"> Sept 5, 2023 </time>
@@ -200,14 +200,14 @@ const Podcast = () => {
             </div>
             <div className="flex items-center mt-6">
               <div className="flex-shrink-0">
-                <a href="https://twitter.com/wickedlabsHQ">
+                <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==">
                   <span className="sr-only">Detox Jones</span>
                   <img className="w-10 h-10 rounded-full" src="Detox.jpg" alt=""/>
                 </a>
               </div>
               <div className="ml-3">
                 <p className="text-sm font-medium text-neutral-600">
-                  <a href="https://twitter.com/wickedlabsHQ" className="hover:underline"> Detox Jones </a>
+                  <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==" className="hover:underline"> Detox Jones </a>
                 </p>
                 <div className="flex space-x-1 text-sm text-gray-500">
                   <time dateTime="2020-02-12"> Aug 25, 2023 </time>
@@ -233,14 +233,14 @@ const Podcast = () => {
             </div>
             <div className="flex items-center mt-6">
               <div className="flex-shrink-0">
-                <a href="https://twitter.com/wickedlabsHQ">
+                <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==">
                   <span className="sr-only">Detox Jones</span>
                   <img className="w-10 h-10 rounded-full" src="Detox.jpg" alt=""/>
                 </a>
               </div>
               <div className="ml-3">
                 <p className="text-sm font-medium text-neutral-600">
-                  <a href="https://twitter.com/wickedlabsHQ" className="hover:underline"> Detox Jones </a>
+                  <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==" className="hover:underline"> Detox Jones </a>
                 </p>
                 <div className="flex space-x-1 text-sm text-gray-500">
                   <time dateTime="2020-02-12"> Aug 14, 2023 </time>
@@ -268,14 +268,14 @@ const Podcast = () => {
             </div>
             <div className="flex items-center mt-6">
               <div className="flex-shrink-0">
-                <a href="https://twitter.com/wickedlabsHQ">
+                <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==">
                   <span className="sr-only">Detox Jones</span>
                   <img className="w-10 h-10 rounded-full" src="Detox.jpg" alt=""/>
                 </a>
               </div>
               <div className="ml-3">
                 <p className="text-sm font-medium text-neutral-600">
-                  <a href="https://twitter.com/wickedlabsHQ" className="hover:underline"> Detox Jones </a>
+                  <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==" className="hover:underline"> Detox Jones </a>
                 </p>
                 <div className="flex space-x-1 text-sm text-gray-500">
                   <time dateTime="2020-02-12"> Jul 28, 2023 </time>
@@ -301,14 +301,14 @@ const Podcast = () => {
             </div>
             <div className="flex items-center mt-6">
               <div className="flex-shrink-0">
-                <a href="https://twitter.com/wickedlabsHQ">
+                <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==">
                   <span className="sr-only">Detox Jones</span>
                   <img className="w-10 h-10 rounded-full" src="Detox.jpg" alt=""/>
                 </a>
               </div>
               <div className="ml-3">
                 <p className="text-sm font-medium text-neutral-600">
-                  <a href="https://twitter.com/wickedlabsHQ" className="hover:underline"> Detox Jones </a>
+                  <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==" className="hover:underline"> Detox Jones </a>
                 </p>
                 <div className="flex space-x-1 text-sm text-gray-500">
                   <time dateTime="2020-02-12"> Jul 10, 2023 </time>
@@ -334,14 +334,14 @@ const Podcast = () => {
             </div>
             <div className="flex items-center mt-6">
               <div className="flex-shrink-0">
-                <a href="https://twitter.com/wickedlabsHQ">
+                <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==">
                   <span className="sr-only">Detox Jones</span>
                   <img className="w-10 h-10 rounded-full" src="Detox.jpg" alt=""/>
                 </a>
               </div>
               <div className="ml-3">
                 <p className="text-sm font-medium text-neutral-600">
-                  <a href="https://twitter.com/wickedlabsHQ" className="hover:underline"> Detox Jones </a>
+                  <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==" className="hover:underline"> Detox Jones </a>
                 </p>
                 <div className="flex space-x-1 text-sm text-gray-500">
                   <time dateTime="2020-02-12"> Jun 30, 2023 </time>
@@ -369,14 +369,14 @@ const Podcast = () => {
             </div>
             <div className="flex items-center mt-6">
               <div className="flex-shrink-0">
-                <a href="https://twitter.com/wickedlabsHQ">
+                <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==">
                   <span className="sr-only">Detox Jones</span>
                   <img className="w-10 h-10 rounded-full" src="Detox.jpg" alt=""/>
                 </a>
               </div>
               <div className="ml-3">
                 <p className="text-sm font-medium text-neutral-600">
-                  <a href="https://twitter.com/wickedlabsHQ" className="hover:underline"> Detox Jones </a>
+                  <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==" className="hover:underline"> Detox Jones </a>
                 </p>
                 <div className="flex space-x-1 text-sm text-gray-500">
                   <time dateTime="2020-02-12"> Jun 11, 2023 </time>
@@ -403,14 +403,14 @@ const Podcast = () => {
             </div>
             <div className="flex items-center mt-6">
               <div className="flex-shrink-0">
-                <a href="https://twitter.com/wickedlabsHQ">
+                <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==">
                   <span className="sr-only">Detox Jones</span>
                   <img className="w-10 h-10 rounded-full" src="Detox.jpg" alt=""/>
                 </a>
               </div>
               <div className="ml-3">
                 <p className="text-sm font-medium text-neutral-600">
-                  <a href="https://twitter.com/wickedlabsHQ" className="hover:underline"> Detox Jones </a>
+                  <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==" className="hover:underline"> Detox Jones </a>
                 </p>
                 <div className="flex space-x-1 text-sm text-gray-500">
                   <time dateTime="2020-02-12"> Jun 9, 2023 </time>
@@ -437,14 +437,14 @@ const Podcast = () => {
             </div>
             <div className="flex items-center mt-6">
               <div className="flex-shrink-0">
-                <a href="https://twitter.com/wickedlabsHQ">
+                <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==">
                   <span className="sr-only">Detox Jones</span>
                   <img className="w-10 h-10 rounded-full" src="Detox.jpg" alt=""/>
                 </a>
               </div>
               <div className="ml-3">
                 <p className="text-sm font-medium text-neutral-600">
-                  <a href="https://twitter.com/wickedlabsHQ" className="hover:underline"> Detox Jones </a>
+                  <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==" className="hover:underline"> Detox Jones </a>
                 </p>
                 <div className="flex space-x-1 text-sm text-gray-500">
                   <time dateTime="2020-02-12"> May 28, 2023 </time>
@@ -472,14 +472,14 @@ const Podcast = () => {
             </div>
             <div className="flex items-center mt-6">
               <div className="flex-shrink-0">
-                <a href="https://twitter.com/wickedlabsHQ">
+                <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==">
                   <span className="sr-only">Detox Jones</span>
                   <img className="w-10 h-10 rounded-full" src="Detox.jpg" alt=""/>
                 </a>
               </div>
               <div className="ml-3">
                 <p className="text-sm font-medium text-neutral-600">
-                  <a href="https://twitter.com/wickedlabsHQ" className="hover:underline"> Detox Jones </a>
+                  <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==" className="hover:underline"> Detox Jones </a>
                 </p>
                 <div className="flex space-x-1 text-sm text-gray-500">
                   <time dateTime="2020-02-12"> May 26, 2023 </time>
@@ -505,14 +505,14 @@ const Podcast = () => {
             </div>
             <div className="flex items-center mt-6">
               <div className="flex-shrink-0">
-                <a href="https://twitter.com/wickedlabsHQ">
+                <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==">
                   <span className="sr-only">Detox Jones</span>
                   <img className="w-10 h-10 rounded-full" src="Detox.jpg" alt=""/>
                 </a>
               </div>
               <div className="ml-3">
                 <p className="text-sm font-medium text-neutral-600">
-                  <a href="https://twitter.com/wickedlabsHQ" className="hover:underline"> Detox Jones </a>
+                  <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==" className="hover:underline"> Detox Jones </a>
                 </p>
                 <div className="flex space-x-1 text-sm text-gray-500">
                   <time dateTime="2020-02-12"> May 21, 2023 </time>
@@ -538,14 +538,14 @@ const Podcast = () => {
             </div>
             <div className="flex items-center mt-6">
               <div className="flex-shrink-0">
-                <a href="https://twitter.com/wickedlabsHQ">
+                <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==">
                   <span className="sr-only">Detox Jones</span>
                   <img className="w-10 h-10 rounded-full" src="Detox.jpg" alt=""/>
                 </a>
               </div>
               <div className="ml-3">
                 <p className="text-sm font-medium text-neutral-600">
-                  <a href="https://twitter.com/wickedlabsHQ" className="hover:underline"> Detox Jones </a>
+                  <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==" className="hover:underline"> Detox Jones </a>
                 </p>
                 <div className="flex space-x-1 text-sm text-gray-500">
                   <time dateTime="2020-02-12"> May 5, 2023 </time>
@@ -571,14 +571,14 @@ const Podcast = () => {
             </div>
             <div className="flex items-center mt-6">
               <div className="flex-shrink-0">
-                <a href="https://twitter.com/wickedlabsHQ">
+                <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==">
                   <span className="sr-only">Detox Jones</span>
                   <img className="w-10 h-10 rounded-full" src="Detox.jpg" alt=""/>
                 </a>
               </div>
               <div className="ml-3">
                 <p className="text-sm font-medium text-neutral-600">
-                  <a href="https://twitter.com/wickedlabsHQ" className="hover:underline"> Detox Jones </a>
+                  <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==" className="hover:underline"> Detox Jones </a>
                 </p>
                 <div className="flex space-x-1 text-sm text-gray-500">
                   <time dateTime="2020-02-12"> Apr 21, 2023 </time>
@@ -604,14 +604,14 @@ const Podcast = () => {
             </div>
             <div className="flex items-center mt-6">
               <div className="flex-shrink-0">
-                <a href="https://twitter.com/wickedlabsHQ">
+                <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==">
                   <span className="sr-only">Detox Jones</span>
                   <img className="w-10 h-10 rounded-full" src="Detox.jpg" alt=""/>
                 </a>
               </div>
               <div className="ml-3">
                 <p className="text-sm font-medium text-neutral-600">
-                  <a href="https://twitter.com/wickedlabsHQ" className="hover:underline"> Detox Jones </a>
+                  <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==" className="hover:underline"> Detox Jones </a>
                 </p>
                 <div className="flex space-x-1 text-sm text-gray-500">
                   <time dateTime="2020-02-12"> Mar 24, 2023 </time>
@@ -637,14 +637,14 @@ const Podcast = () => {
             </div>
             <div className="flex items-center mt-6">
               <div className="flex-shrink-0">
-                <a href="https://twitter.com/wickedlabsHQ">
+                <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==">
                   <span className="sr-only">Detox Jones</span>
                   <img className="w-10 h-10 rounded-full" src="Detox.jpg" alt=""/>
                 </a>
               </div>
               <div className="ml-3">
                 <p className="text-sm font-medium text-neutral-600">
-                  <a href="https://twitter.com/wickedlabsHQ" className="hover:underline"> Detox Jones </a>
+                  <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==" className="hover:underline"> Detox Jones </a>
                 </p>
                 <div className="flex space-x-1 text-sm text-gray-500">
                   <time dateTime="2020-02-12"> Mar 10, 2023 </time>
@@ -673,14 +673,14 @@ const Podcast = () => {
             </div>
             <div className="flex items-center mt-6">
               <div className="flex-shrink-0">
-                <a href="https://twitter.com/wickedlabsHQ">
+                <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==">
                   <span className="sr-only">Detox Jones</span>
                   <img className="w-10 h-10 rounded-full" src="Detox.jpg" alt=""/>
                 </a>
               </div>
               <div className="ml-3">
                 <p className="text-sm font-medium text-neutral-600">
-                  <a href="https://twitter.com/wickedlabsHQ" className="hover:underline"> Detox Jones </a>
+                  <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==" className="hover:underline"> Detox Jones </a>
                 </p>
                 <div className="flex space-x-1 text-sm text-gray-500">
                   <time dateTime="2020-02-12"> Feb 24, 2023 </time>
@@ -706,14 +706,14 @@ const Podcast = () => {
             </div>
             <div className="flex items-center mt-6">
               <div className="flex-shrink-0">
-                <a href="https://twitter.com/wickedlabsHQ">
+                <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==">
                   <span className="sr-only">Detox Jones</span>
                   <img className="w-10 h-10 rounded-full" src="Detox.jpg" alt=""/>
                 </a>
               </div>
               <div className="ml-3">
                 <p className="text-sm font-medium text-neutral-600">
-                  <a href="https://twitter.com/wickedlabsHQ" className="hover:underline"> Detox Jones </a>
+                  <a href="https://instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ==" className="hover:underline"> Detox Jones </a>
                 </p>
                 <div className="flex space-x-1 text-sm text-gray-500">
                   <time dateTime="2020-02-12"> Feb 3, 2023 </time>
