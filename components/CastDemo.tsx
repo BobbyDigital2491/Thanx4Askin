@@ -88,7 +88,7 @@ const CastDemo = () => {
         </div>
         <div className="flex flex-col overflow-hidden rounded-lg shadow-lg">
           <div className="flex-shrink-0">
-            <img className="object-cover w-full h-48" src="Detox.jpg" alt=""/>
+            <img className="object-cover w-full h-48" src="B2.png" alt=""/>
           </div>
           <div className="flex flex-col justify-between flex-1 p-6 bg-white">
             <div className="flex-1">
