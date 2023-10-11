@@ -59,8 +59,11 @@ const CastDemo = () => {
           <div className="flex flex-col justify-between flex-1 p-6 bg-white">
             <div className="flex-1">
               <a href="/JunieEpisode" className="block mt-2">
-                <p className="text-xl font-semibold text-black">Special Guest Blind Junie</p>
-                <p className="mt-3 text-base text-gray-500">Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto accusantium praesentium eius, ut atque fuga culpa, similique sequi cum eos quis dolorum.</p>
+                <p className="text-xl font-semibold text-black">Blind Junie is a blind drug dealer who navigated the notorious Southside Jamaica Queens - Ep. 2</p>
+                <p className="mt-3 text-base text-gray-500">Blind Junie is our next guest on the Thanx4askin podcast show.
+                Blind Junie is a South Side Jamaica Queens legend in his own right. He sold drugs alongside Fat Cat, Supreme McGriff, and every other big-time drug dealer in the 1980s.
+                Junie opens up about his life from his early days as a high school basketball player to his release from incarceration for selling drugs in the early 2000s. 
+                </p>
               </a>
             </div>
             <div className="flex items-center mt-6">
@@ -75,9 +78,9 @@ const CastDemo = () => {
                   <a href="https://twitter.com/Mike_Andreuzza" className="hover:underline">Detox Jones</a>
                 </p>
                 <div className="flex space-x-1 text-sm text-gray-500">
-                  <time dateTime="2020-03-16"> Mar 16, 2020 </time>
+                  <time dateTime="2020-03-16"> Feb 24, 2023 </time>
                   <span aria-hidden="true"> · </span>
-                  <span> 45 min  </span>
+                  <span> 54:04 mins </span>
                 </div>
               </div>
             </div>
@@ -90,15 +93,15 @@ const CastDemo = () => {
           <div className="flex flex-col justify-between flex-1 p-6 bg-white">
             <div className="flex-1">
               <a href="/BimmyEpisode" className="block mt-2">
-                <p className="text-xl font-semibold text-black">We got Bimmy in the House</p>
-                <p className="mt-3 text-base text-gray-500">Today, we sat down and had a great conversation with the one and only Bimmy. If you haven&apos;t seen this episode, you have to watch it ASAP!</p>
+                <p className="text-xl font-semibold text-black">Bimmy&apos;s response to Zipwitthedrip + What&apos;s life after being a Supreme Team Drug Dealer?</p>
+                <p className="mt-3 text-base text-gray-500">Today we sit down with a Southside Jamaica Queens Legend better known as Bimmy. We all know the stories about how he grew up and who were some of his friends. Well, we get into a lot of those stories as well. We break down his transition from street life into the music industry.</p>
               </a>
             </div>
             <div className="flex items-center mt-6">
               <div className="flex-shrink-0">
                 <a href="https://twitter.com/g_perales">
-                  <span className="sr-only">G Vasquez</span>
-                  <img className="w-10 h-10 rounded-full object-cover" src="G.jpg" alt=""/>
+                  <span className="sr-only">Detox Jones</span>
+                  <img className="w-10 h-10 rounded-full object-cover" src="Detox.jpg" alt=""/>
                 </a>
               </div>
               <div className="ml-3">
@@ -121,8 +124,8 @@ const CastDemo = () => {
           <div className="flex flex-col justify-between flex-1 p-6 bg-white">
             <div className="flex-1">
               <a href="/MicGeronimoEpisode" className="block mt-2">
-                <p className="text-xl font-semibold text-neutral-600">The Legendary Mic Geronimo</p>
-                <p className="mt-3 text-base text-gray-500">Mic Geronimo Talks about how he got his record at 18 and that they were the first songs he ever recorded in his life.</p>
+                <p className="text-xl font-semibold text-neutral-600">Mic Geronimo Talks about his rap career, Irv Gotti, Diddy, DMX, Jay-Z, Ja Rule, & entrepreneurship.</p>
+                <p className="mt-3 text-base text-gray-500">In this Episode, Mic Geronimo discusses how he was signed to TVT Records, and his relationship with Irv Gotti early in his career. He talks about what it was like recording with DMX, Jay-Z, and Ja Rule. Mic gets into how he turned down the &quot;Can&apos;t Nobody Hold Me Down&quot; beat that Diddy and Mase made a hit record. Mic Geronimo also talks about starting his own locksmith business after being dropped from his label.</p>
               </a>
             </div>
             <div className="flex items-center mt-6">
