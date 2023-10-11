@@ -49,7 +49,7 @@ const Podcast = () => {
   <div className="relative px-4 py-12 sm:px-6 lg:py-16 lg:px-8">
     <div className="relative mx-auto max-w-7xl">
     <FadeIn>
-      <h1 className="mb-4  text-center text-4xl font-extrabold leading-none tracking-tight text-black md:text-5xl lg:text-6xl dark:text-white">All Episodes</h1>
+      <h1 className="mb-4 text-white text-center text-4xl font-extrabold leading-none tracking-tight md:text-5xl lg:text-6xl dark:text-white">All Episodes</h1>
       </FadeIn>
     <br/>
 
