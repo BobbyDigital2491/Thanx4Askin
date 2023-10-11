@@ -49,7 +49,7 @@ const CastDemo = () => {
 <section >
   <div className="relative px-4 py-12 sm:px-6 lg:py-16 lg:px-8">
     <div className="relative mx-auto max-w-7xl">
-    <FadeIn><h1 className="mb-4  text-center text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white">Podcast Episodes</h1></FadeIn>
+    <FadeIn><h1 className="mb-4  text-center text-4xl font-extrabold leading-none tracking-tight text-white md:text-5xl lg:text-6xl dark:text-white">Podcast Episodes</h1></FadeIn>
    <br/>
       <div className="grid max-w-lg gap-5 mx-auto lg:grid-cols-3 lg:max-w-none">
         <div className="flex flex-col overflow-hidden rounded-lg shadow-lg">
