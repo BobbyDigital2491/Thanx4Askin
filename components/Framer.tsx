@@ -1,3 +1,4 @@
+/* eslint-disable react/no-children-prop */
 import React, { useRef } from "react";
 import { useInView } from "react-intersection-observer";
 import AboutUs from "./AboutUs";
