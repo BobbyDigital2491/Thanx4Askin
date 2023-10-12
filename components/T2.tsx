@@ -165,7 +165,7 @@ const T2 = () => {
                   <ul className="flex space-x-4 sm:mt-0">
                       
                       <li>
-                          <a href="https://instagram.com/beard_gang_prime?igshid=NzZhOTFlYzFmZQ==" className="text-gray-500 hover:text-gray-900 dark:hover:text-white">
+                          <a href="https://instagram.com/primefocus_studio_llc?igshid=NzZhOTFlYzFmZQ==" className="text-gray-500 hover:text-gray-900 dark:hover:text-white">
                                <svg
                             className="h-6 w-6"
                             fill="currentColor"
