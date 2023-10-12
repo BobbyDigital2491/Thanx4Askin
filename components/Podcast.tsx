@@ -128,7 +128,7 @@ const Podcast = () => {
           <div className="flex flex-col justify-between flex-1 p-6 bg-white">
             <div className="flex-1">
               <a href="/BimmyEpisode" className="block mt-2">
-                <p className="text-xl font-semibold text-black">Bimmy&apos;s response to Zipwitthedrip + What&apos;s life after being a Supreme Team Drug Dealer?</p>
+                <p className="text-xl font-semibold text-black">Life after drug dealing + a response from Zipwiththedrip</p>
                 <p className="mt-3 text-base text-gray-500">Today we sit down with a Southside Jamaica Queens Legend better known as Bimmy. We all know the stories about how he grew up and who were some of his friends. Well, we get into a lot of those stories as well. We break down his transition from street life into the music industry. </p>
               </a>
             </div>
