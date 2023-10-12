@@ -154,7 +154,7 @@ const T2 = () => {
           {/* Item 5 */}
           <div className="items-center bg-red-600 rounded-lg shadow sm:flex dark:bg-red-600 dark:border-gray-700">
               <div>
-                  <img className="w-full h-96 object-cover bg-black rounded-lg sm:rounded-none sm:rounded-l-lg" src="T2.jpg" alt="Prime"/>
+                  <img className="w-full h-96 object-cover bg-black rounded-lg sm:rounded-none sm:rounded-l-lg" src="P2.jpg" alt="Prime"/>
               </div>
               <div className="p-5">
                   <h3 className="text-xl font-bold tracking-tight text-transparent bg-clip-text bg-gradient-to-br from-yellow-300 to-yellow-900">
