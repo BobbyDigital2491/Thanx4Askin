@@ -15,7 +15,7 @@ const Hero2: React.FC = () => {
   return (
     <div className="relative pt-40 pb-56 bg-black">
     <div className="absolute inset-0 lg:hidden">
-        <img className="object-cover object-left mx-auto opacity-50" src="Banner.jpg" alt="" />
+        <img className="object-cover object-left mx-auto opacity-50" src="1st.jpg" alt="" />
     </div>
 
     <header className="absolute inset-x-0 top-0 z-10 py-8 xl:py-12">
