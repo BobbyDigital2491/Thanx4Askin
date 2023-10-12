@@ -93,7 +93,7 @@ const T2 = () => {
                       <a href="#">G Vasquez</a>
                   </h3>
                   <span className="text-white">Co Host</span>
-                  <p className="mt-3 mb-4 font-light text-white">Prime is our the Social media and Photography guru</p>
+                  <p className="mt-3 mb-4 font-light text-white">G Vasquez is a master barber and movie producer</p>
                   <ul className="flex space-x-4 sm:mt-0">
                       
                       <li>
