@@ -432,7 +432,7 @@ const Podcast = () => {
               <a href="/CoachDEpisode" className="block mt-2">
                 <p className="text-xl font-semibold text-neutral-600">Coach Dee of Code 31 Media: &quot;Basketball was Life, now it&apos;s media&quot;</p>
                 <p className="mt-3 text-base text-gray-500">Coach D talks about how her origins start with her wanting to be just like her brother Mark Ellison. She would follow her brother everywhere. It began with playing baseball and then it eventually transitioned to basketball.     
-                As a young basketball athlete, Coach D would shine in this role. Riding this gift all the way to Mercy College. Coach D persevered to become one of the highest-scoring players in the college&apos; history.</p>
+                As a young basketball athlete, Coach D would shine in this role. Riding this gift all the way to Mercy College. Coach D persevered to become one of the highest-scoring players in college history.</p>
               </a>
             </div>
             <div className="flex items-center mt-6">
@@ -599,7 +599,7 @@ const Podcast = () => {
             <div className="flex-1">
               <a href="/KyahEpisode" className="block mt-2">
                 <p className="text-xl font-semibold text-neutral-600">Kyah Baby talks about her childhood, getting arrested, brother dying, 50 Cent, record deal & more.</p>
-                <p className="mt-3 text-base text-gray-500">KyahBaby  talks about her childhood, getting arrested, her closet brother dying, depression, meeting 50 Cent, her record deal with DJ Self, being an independent artist, her last album and her latest single and a whole lot more.</p>
+                <p className="mt-3 text-base text-gray-500">KyahBaby talks about her childhood, getting arrested, her closest brother dying, depression, meeting 50 Cent, her record deal with DJ Self, being an independent artist, her last album and her latest single and a whole lot more.</p>
               </a>
             </div>
             <div className="flex items-center mt-6">
