@@ -46,7 +46,7 @@ const Podcast = () => {
   const [currentPage, setCurrentPage] = useState(1);
   const itemsPerPage = 9;
 
-  // Sample podcast data
+  // Podcast data in decending order
   const podcastData = [
     {
       id: 1,
